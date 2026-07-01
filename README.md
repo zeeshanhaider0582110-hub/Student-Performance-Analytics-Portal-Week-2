@@ -127,7 +127,7 @@ edutrack-portal/
 3. Install the *Live Server* extension
 4. Right-click login.html → *Open with Live Server*
 5. Use the demo credentials to log in:
-   - Email: usman@edutrack.edu.pk
+   - Email: zeeshan@edutrack.edu.pk
    - Password: edutrack2026
 
 > No build tools, frameworks, or installations required. Pure HTML, CSS, and JavaScript.
